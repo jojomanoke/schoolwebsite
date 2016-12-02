@@ -10,11 +10,11 @@
 <body>
 
 <ul class="navbar">
-  <li class="navbar" class="actief"><a href="DutchFlevoGamers.html">Home</a></li>
-  <li class="navbar"><a href="https://www.youtube.com/channel/UCqD49gmejgN8gOzjQX06GAA">Youtube</a></li>
-  <li class="navbar"><a href="contact.html">Contact</a></li>
-  <li class="navbar"><a href="https://plus.google.com/111470645161528284138/about">Google +</a></li>
-  <li class="navbar" class=about><a href="about.html">Over ons</a></li>
+  <li class="navbar" class="actief"><a href="start.php">Home</a></li>
+  <li class="navbar"><a href="https://www.youtube.com/channel/UCqD49gmejgN8gOzjQX06GAA">pagina 2 (niet gemaakt)</a></li>
+  <li class="navbar"><a href="contact.html">pagina 3 (niet gemaakt)</a></li>
+  <li class="navbar"><a href="https://plus.google.com/111470645161528284138/about">pagina 4 (niet gemaakt)</a></li>
+  <li class="navbar" class=about><a href="about.html">pagina 5 (niet gemaakt)</a></li>
 </ul>
 
 <br>
