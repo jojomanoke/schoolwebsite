@@ -10,14 +10,11 @@
 <body>
 
 <ul>
-
-
-
-	  <li class="navbar"><a href="start.php">Home</a></li>
-	  <li class="navbar" class="actief"><a href="Joas.php">Over Joas</a></li>
-	  <li class="navbar"><a href="">Over Sylvano</a></li>
+	Â  <li class="navbar"><a href="start.php">Home</a></li>
+	Â  <li class="navbar" class="actief"><a href="Joas.php">Over Joas</a></li>
+	Â  <li class="navbar"><a href="">Over Sylvano</a></li>
 	  <li class="navbar"><a href="">Over d </a></li>
-	  <li class="navbar" class=about><a href="">pagina 5 (niet gemaakt)</a></li>
+	Â  <li class="navbar" class=about><a href="">pagina 5 (niet gemaakt)</a></li>
 </ul>
 
 <br>
