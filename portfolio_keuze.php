@@ -7,12 +7,14 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="bootstrap_2/docs/favicon.ico">
-    <link href="bootstrap_2/dist/css/bootstrap.js" rel="stylesheet">
+    <link href="bootstrap_2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap_2/dist/css/bootstrap.css">
     <link href="jumbotron.css" rel="stylesheet">
     <script src="bootstrap_2/assets/js/ie-emulation-modes-warning.js"></script>
     <title>Website voor school</title>
   </head>
+
+
 
   <body>
 
@@ -34,7 +36,7 @@
                         <a href="index.php">Beginpagina</a>
                     </li>
 
-                    <li  class="navbar-default">
+                    <li style="color: yellow;">
                         <a href="Joas.php"> Over Joas</a>
                     </li>
 
@@ -48,23 +50,18 @@
             </div>
         </div>
     </nav>
-
-    <div class="jumbotron">
-      <div class="container">
-        <h2>Welkom bij de pagina van Joas!</h2>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+        </div><!--/.navbar-collapse -->
       </div>
-    </div>
+    </nav>
 
 
 
 
 
-
-
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="bootstrap_2/docs/assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="bootstrap_2/docs/dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="bootstrap_2/docs/assets/js/ie10-viewport-bug-workaround.js"></script>
-  </body>
-</html>
