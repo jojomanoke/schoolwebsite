@@ -76,8 +76,8 @@
        </div>
         <div style="text-align: left" class="col-md-3">
           <h2>Vakken</h2>
-          <p>Wij laten zien wat voor vakken wij hebben en wat er allemaal precies gedaan wordt of gedaan is bij een bepaald vak</p>
-          <p><a class="btn btn-warning" href="#" role="button">Ga naar alle vakken &raquo;</a></p>
+          <p>Wij laten u zien wat voor vakken we allemaal hebben op school. Wat de vakken precies inhouden en wat we daar moeten doen komt ook aan de pas. De vakken die we afgerond hebben, waar we momenteel mee bezig zijn en natuurlijk de vakken die we nog zullen krijgen komen ook hierin.</p>
+          <p><a class="btn btn-warning" href="vakken.php" role="button">Ga naar alle vakken &raquo;</a></p>
         </div>
          <div style="text-align: left" class="col-md-3">
           <h2>De Tijd</h2>

@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="bootstrap_2/docs/favicon.ico">
-    <link href="bootstrap_2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap_2/dist/css/bootstrap.js" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap_2/dist/css/bootstrap.css">
     <link href="jumbotron.css" rel="stylesheet">
     <script src="bootstrap_2/assets/js/ie-emulation-modes-warning.js"></script>
@@ -16,7 +16,7 @@
 
   <body>
 
-<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container-fluid">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbarCollapse">
@@ -38,7 +38,7 @@
                         <a href="Joas.php"> Over Joas</a>
                     </li>
 
-                    <li class="navbar-default">
+                    <li>
                         <a href="Sylvano.php">Over Sylvano</a>
                     </li>
                     <li>
@@ -49,28 +49,26 @@
         </div>
     </nav>
 
-  <div class="jumbotron">
-    <div class="container">
-      <h2>Welkom bij de pagina van Sylvano!</h2>
-      <p>
-      	Op deze pagina komt u meer te weten over Sylvano.<br>
-      	Druk op een knop van een bepaald onderwerp, om meer informatie te krijgen.
-      </p>
+    <div class="jumbotron">
+      <div class="container">
+        <h2>Welkom bij de pagina voor de vakken!</h2>
+        <p>
+            Op deze pagina komen alle vakken te staan.<br>
+            Druk op een bepaald vak om meer over de inhoud ervan te weten te komen.
+        </p>
+      </div>
     </div>
-  </div>
 
-<div>
-<button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">
-  Cijfers die behaald zijn
-</button>
 
-<div id="demo" class="collapse out container-fluid left row" style="width: 30%; margin-left: 50px;">
-  Hier kunt u alle cijfers zien die behaald zijn door Sylvano.
-</div>
-</div>
 
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="bootstrap_2/docs/assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="bootstrap_2/docs/dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="bootstrap_2/docs/assets/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
