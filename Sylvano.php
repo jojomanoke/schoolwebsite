@@ -28,7 +28,7 @@
                 <a class="navbar-brand" href="index.php">Portfolio</a>
             </div>
 
-            <div class="collapse navbar-collapse navbarCollapse">
+            <div class="collapse navbar-collapse navbarCollapse collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="index.php">Beginpagina</a>
@@ -64,7 +64,7 @@
   Cijfers die behaald zijn
 </button>
 
-<div id="demo" class="collapse out container-fluid left row" style="width: 30%; margin-left: 50px;">
+<div id="demo" class="collapse container-fluid left row" style="width: 30%; margin-left: 50px;">
   Hier kunt u alle cijfers zien die behaald zijn door Sylvano.
 </div>
 </div>
