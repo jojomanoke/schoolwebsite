@@ -64,7 +64,7 @@
   Cijfers die behaald zijn
 </button>
 
-<div id="demo" class="collapse container-fluid left row" style="width: 30%; margin-left: 50px;">
+<div id="demo" class="collapse container-fluid left row" style="width: 30%; margin-left: 0px;">
   Hier kunt u alle cijfers zien die behaald zijn door Sylvano.
 </div>
 </div>
