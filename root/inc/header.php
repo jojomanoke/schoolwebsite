@@ -10,6 +10,7 @@
     <link href="bootstrap_2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="bootstrap_2/dist/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
+    <link rel="stylesheet" type="text/css" href="materialize/css/materialize.css">
     <script src="bootstrap_2/assets/js/ie-emulation-modes-warning.js"></script>
     <title>Website voor school</title>
   </head>
