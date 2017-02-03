@@ -1,5 +1,4 @@
-
- <div class="jumbotron">
+ <div class="jumbotron" >
    <div class="container">
      <h2>Welkom bij de pagina van Sylvano!</h2>
      <p>
@@ -9,22 +8,25 @@
    </div>
  </div>
 
-<div style="margin-left: 50px">
-  <button class="btn btn-info btn-md" type="button" data-toggle="collapse" data-target="#demo"> Cijfers die behaald zijn</button>
-  <div id="demo" class="collapse container-fluid left row" style="width: 169px; margin-left: 0px;">
-  <a href="?page=inc/cijfers.php">Hier kunt u alle cijfers die behaald zijn zien.</a>
+<div class="jumbotron" id="cijfers">
+  <div class="container">
+     <p><a href="?page=inc/cijfers.php">Hier kunt u alle cijfers die behaald zijn zien.</a></p>
+  </div>
 </div>
-</div>
+     
+
 
 <br>
-
-<div style="margin-left: 50px">
-  <button class="btn btn-info btn-md" type="button" data-toggle="collapse" data-target="#modal">Ervaring</button>
-  <div id="modal" class="collapse container-fluid left row" style="width: 60%; margin-left: 0px;">
+<div class="jumbotron" id="ervaring">
+  <div class="container">
+  <h2>Ervaring</h2>
+  <p>
   Ik zit na 5 jaar op havo te hebben gezeten op het ROC Friese Poort in Emmeloord. Ik was na een keer te blijven zitten op de havo overgestapt naar het MBO, omdat de havo toch niks voor mij was.<br>
 
   Nu doe ik Applicatie- en mediaontwikkeling. Dit was de goede keuze, aangezien dit mij veel beter ligt als havo.<br>
 
   Ik ben een beginnende webdesigner met ervaring in:
+
+</p>
 </div>
 </div>

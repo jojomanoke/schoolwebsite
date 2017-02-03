@@ -7,11 +7,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="bootstrap_2/docs/favicon.ico">
-    <link href="bootstrap_2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="bootstrap_2/dist/css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="css/custom.css">
     <link rel="stylesheet" type="text/css" href="materialize/css/materialize.css">
-    <script src="bootstrap_2/assets/js/ie-emulation-modes-warning.js"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+
     <title>Website voor school</title>
   </head>
 
