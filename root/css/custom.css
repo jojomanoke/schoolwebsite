@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+
+
+.col-center-right {
+	float: none;
+	margin: 0 auto;
+	text-align: right;
+}
+
+.left {
+	text-align: left;
+}
+
+.right {
+	text-align: right;
+}
+
+.center {
+	text-align: center;
+}
+
+.justify {
+	text-align: justify;
+}
